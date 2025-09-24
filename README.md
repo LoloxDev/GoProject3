@@ -118,3 +118,7 @@ go test ./...
 ```
 
 > Pensez à lancer également `go run . analyze -c config.json` pour voir le fonctionnement réel.
+
+
+<img width="1046" height="341" alt="image" src="https://github.com/user-attachments/assets/28415d42-164c-4080-955c-5d76c8076ce1" />
+
